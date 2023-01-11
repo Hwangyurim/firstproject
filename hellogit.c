@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	print("Hello Git@ \n");
+	printf("Hello Git@ \n");
+	return 0;
 }
 
